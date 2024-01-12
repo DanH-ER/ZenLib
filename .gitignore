@@ -38,3 +38,8 @@ Win32
 x64
 *.VC.opendb
 *.VC.db
+*.vsidx
+*.lock
+*.bin
+Project/BCB/Example/__astcache/
+Project/BCB/Library/__astcache/
